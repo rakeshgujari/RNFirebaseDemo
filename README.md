@@ -1,2 +1,2 @@
 # RNFirebaseDemo
-A To-Do List App coded in react native with Firebase Realtime Database
+A To-Do List App coded in React Native with Firebase Realtime Database
